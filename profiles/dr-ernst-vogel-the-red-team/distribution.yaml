@@ -1,0 +1,11 @@
+name: dr-ernst-vogel-the-red-team
+version: 1.0.0
+description: "Hermes Agent styled after Dr. Ernst Vogel from Indiana Jones: The Adversaries"
+hermes_requires: ">=0.18.0"
+author: "JPeetz"
+license: "MIT"
+distribution_owned:
+  - SOUL.md
+  - config.yaml
+  - skins/
+  - distribution.yaml

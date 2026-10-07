@@ -1,0 +1,105 @@
+{
+  "franchise": "Indiana Jones",
+  "profiles": [
+    {
+      "slug": "indiana-jones",
+      "name": "Indiana Jones",
+      "series": "Explorer"
+    },
+    {
+      "slug": "marion-ravenwood",
+      "name": "Marion Ravenwood",
+      "series": "Explorer"
+    },
+    {
+      "slug": "helena-shaw",
+      "name": "Helena Shaw",
+      "series": "Explorer"
+    },
+    {
+      "slug": "mutt-williams",
+      "name": "Mutt Williams",
+      "series": "Explorer"
+    },
+    {
+      "slug": "marcus-brody",
+      "name": "Marcus Brody",
+      "series": "Allies"
+    },
+    {
+      "slug": "sallah",
+      "name": "Sallah",
+      "series": "Allies"
+    },
+    {
+      "slug": "abner-ravenwood",
+      "name": "Abner Ravenwood",
+      "series": "Allies"
+    },
+    {
+      "slug": "rene-belloq-the-red-team",
+      "name": "Ren\u00e9 Belloq",
+      "series": "Adversary"
+    },
+    {
+      "slug": "dr-ernst-vogel-the-red-team",
+      "name": "Dr. Ernst Vogel",
+      "series": "Adversary"
+    },
+    {
+      "slug": "jurgen-voller-the-red-team",
+      "name": "J\u00fcrgen Voller",
+      "series": "Adversary"
+    },
+    {
+      "slug": "short-round",
+      "name": "Short Round",
+      "series": "Explorer"
+    },
+    {
+      "slug": "willy-scott",
+      "name": "Willy Scott",
+      "series": "Explorer"
+    },
+    {
+      "slug": "henry-jones-sr",
+      "name": "Henry Jones Sr.",
+      "series": "Explorer"
+    },
+    {
+      "slug": "pam-bouvier",
+      "name": "Pam Bouvier",
+      "series": "Allies"
+    },
+    {
+      "slug": "wendy-callahan",
+      "name": "Wendy Callahan",
+      "series": "Allies"
+    },
+    {
+      "slug": "elsa-schneider-the-red-team",
+      "name": "Elsa Schneider",
+      "series": "Adversary"
+    },
+    {
+      "slug": "walter-donovan-the-red-team",
+      "name": "Walter Donovan",
+      "series": "Adversary"
+    },
+    {
+      "slug": "colonel-dietrich-the-red-team",
+      "name": "Colonel Dietrich",
+      "series": "Adversary"
+    },
+    {
+      "slug": "young-indiana-jones",
+      "name": "Young Indiana Jones",
+      "series": "Chronicle"
+    },
+    {
+      "slug": "ernest-hemingway",
+      "name": "Ernest Hemingway",
+      "series": "Chronicle"
+    }
+  ]
+}
